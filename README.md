@@ -52,5 +52,6 @@ Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
 
 [Neste link](https://drive.google.com/file/d/1KPh19mvyKirorOI-UsEYHKkmZpet3Ks6/view?usp=sharing), seguem os slides apresentados como o roteiro utilizado para o desenvolvimento do projeto da nossa sessão.
 
+Ps: Adicionei os testes relacionados ao decrement que estavam faltando (service e controller) contando com um total de 30 testes e todos passando.
 
 
